@@ -1,0 +1,1 @@
+os.execute("java LoadImageApp strawberry.jpg")
